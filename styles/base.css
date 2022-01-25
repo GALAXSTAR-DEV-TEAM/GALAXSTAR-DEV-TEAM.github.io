@@ -1,3 +1,15 @@
 body.base-body{
     background-color: #1e1f30;
 }
+/*#141414*/
+/*#011638*/
+/*#040F16*/
+/*#332E3C*/
+/*#131112*/
+
+h1.base-title{
+    font-size: larger;
+    font-family: "Century Gothic";
+    font-weight: bold;
+    color: #ffffff
+}
