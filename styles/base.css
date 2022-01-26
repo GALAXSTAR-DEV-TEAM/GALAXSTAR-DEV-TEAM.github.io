@@ -1,5 +1,8 @@
 body.base-body{
     background-color: #1e1f30;
+    margin: 0;
+    height: 100%;
+    width: 100%;
 }
 /*#141414*/
 /*#011638*/
@@ -7,9 +10,35 @@ body.base-body{
 /*#332E3C*/
 /*#131112*/
 
+img.studio-logo-navbar{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
 h1.base-title{
-    font-size: larger;
+    font-size: 48;
     font-family: "Century Gothic";
     font-weight: bold;
-    color: #ffffff
+    color: #ffffff;
+    text-align: center;
+}
+h2.base-subtitle{
+    font-size: 26;
+    font-family: "Century Gothic";
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+div.nav-bar{
+    color: linear-gradient(-180deg, rgba(42, 56, 240, 0.8) 25%, rgba(147,64,255,0.8) 100%);
+    box-sizing: content-box;
+    display: block;
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 5px 25px black;
+    position: fixed;
+    border-bottom: 3px solid #4f27ff;
+    backdrop-filter: blur(6px);
 }
