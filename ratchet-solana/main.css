@@ -29,6 +29,7 @@ body header nav {
 }
 
 body header nav .logo {
+    font-family: 'Century Gothic' !important;
     float: left;
     margin-top: 10px
 }
@@ -46,6 +47,7 @@ body header nav .logo h1 {
 }
 
 body header nav .nav-links {
+    font-family: 'Century Gothic' !important;
     float: right
 }
 
@@ -127,6 +129,7 @@ body .game-info {
 
 body .game-info h1 {
     position: relative;
+    font-family: 'Century Gothic' !important;
     top: 20px
 }
 
@@ -160,4 +163,8 @@ body .game-explain .game-container .game-desc {
     width: 100%;
     height: 400px;
     background-color: chocolate
+}
+
+body .game-desc {
+    font-family: 'Century Gothic' !important;
 }
