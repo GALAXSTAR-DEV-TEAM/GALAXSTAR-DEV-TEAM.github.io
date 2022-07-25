@@ -1,0 +1,1 @@
+!function(a){a((function(){a(".sidenav").sidenav(),a(".parallax").parallax()}))}(jQuery);

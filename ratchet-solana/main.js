@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Welcome to Galaxtar Studios R&C BIS official website. ¡DO NOT COPY THE CODE!")})();
